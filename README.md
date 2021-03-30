@@ -16,5 +16,4 @@
 * Used Axios for retriving the data
 * used the cards,Barcharts and maps for showing the data
 * used react hooks for implementing the app
-* Used routers for rendering the components in different routes
-* 
+* Used routers for rendering the components in different routes 
